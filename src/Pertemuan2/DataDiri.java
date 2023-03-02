@@ -1,4 +1,4 @@
-package Pertemuan1;
+package Pertemuan2;
 import java.awt.Color;
 import javax.swing.ButtonGroup;
 import javax.swing.JCheckBox;

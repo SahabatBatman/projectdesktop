@@ -1,4 +1,4 @@
-package Pertemuan1;
+package Pertemuan2;
 import java.awt.Color;
 import javax.swing.JLabel;
 import javax.swing.JFrame;
